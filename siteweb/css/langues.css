@@ -1,0 +1,23 @@
+body { 
+    text-align: justify; 
+    font-family: Calibri,sans-serif;  
+    background-color: #ffffff; 
+    color : #1b302d ; 
+    margin-left: 20px;
+}
+
+h2 {
+    font-weight : bold;
+    color : #2d5551
+}
+
+.donnees {
+    font-size : smaller;
+}
+
+.custom {
+    font-size : larger;
+    font-style : italic;
+}
+
+
